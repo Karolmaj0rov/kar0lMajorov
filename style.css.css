@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    width: Hug (189px)px;
+    height: Hug (47px)px;
+    padding: 12px 24px 12px 24px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    border: 2px solid red;
+}
+
+div{
+    gap: 128.5px;   
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding-top: 38.47px;
+}
+a:hover{
+    color: red;
+}   
+    .butt{
+        width: Hug (189px)px;
+height: Hug (47px)px;
+top: 367px;
+left: 170px;
+padding: 12px 24px 12px 24px;
+gap: 0px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+background: #DE2E54CC;
+
+margin-top: 48.91px;
+}
+h1{
+        color: white;
+}
+.section-two-top{
+        display: flex;
+        justify-content: space-around;
+}
+    
+.section-two-botton{
+    display: flex;
+    justify-content: space-around;
+}
+.one{
+    height: 530px;
+    background-image: url(./image\ 4\ \(2\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 150px;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+h1{
+    color: white;
+    font-size: 50px;
+}
+.hh{
+    padding-top: 140px;
+}
+.frog1{
+    background-color: red;
+    color: white;
+    border: 2px solid red;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+}
+.section-three{
+    width: 1440px;
+height: 669px;
+top: 1447px;
+left: 1px;
+gap: 0px;
+opacity: 0px;
+background: #0EB4C1;
+text-align: center;
+padding-top: 94px;
+
+justify-content: space-around;
+
+}
+.imf{
+    width: 513px;
+height: 331px;
+top: 1685px;
+left: 157px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+}
+
+h1{
+    text-align: left;
+}
+.img{
+    display: flex;
+    justify-content: space-around;
+}
+.hq{
+    align-items: center;
+    text-align: center;
+}
+.rr{
+    width: 450px;
+    height: 40px;
+    padding-left: 50px;
+}
+.e1{
+    padding-top: 20px;
+}
+.e2{
+    padding-top: 20px;
+}
+.e3{
+    padding-top: 20px;
+
+}
+.e4{
+    padding-top: 20px;
+}
+.jh{
+    width: 450px;
+    height: 40px;
+    background: rgba(56, 204, 139, 1);
+}
